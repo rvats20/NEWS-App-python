@@ -1,7 +1,3 @@
-Sure thing! Here's a sample README for your News-App-Python repository:
-
----
-
 # News-App-Python
 
 Welcome to the News-App-Python repository! This project is a Python-based application that fetches and displays the latest news from various sources. It's designed to be simple, efficient, and user-friendly.
